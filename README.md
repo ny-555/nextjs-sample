@@ -1,2 +1,2 @@
 ## Next.js sample
-Next.js v19 最新版の機能の確認など
+Next.js v15 最新版の機能の確認など
